@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chaitanya Patil
 - 👀 I’m interested in CFD, AI-ML
-- 🌱 I’m currently learning full stack devlopment
 - 💞️ I’m looking to collaborate on Ai-ML based projects
 - 📫 You can contact me at patilc103@gmail.com
 

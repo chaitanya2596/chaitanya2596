@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaitanya Patil
-- 👀 I’m interested in CFD, AI-ML
-- 💞️ I’m looking to collaborate on Ai-ML based projects
-- 📫 You can contact me at patilc103@gmail.com
+- 👀 I work on heterogeneous computing, performance modeling, adaptive meshes (AMReX), and CFD
+- 💞️ Open to collaborations in scientific computing and AI/ML for physics-based systems
+- 📫 Contact: patilc103@gmail.coms
 
 <!---
 chaitanya2596/chaitanya2596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
